@@ -1,14 +1,26 @@
 # Introduction
-N/A
+This is from the UMD INST414 (Data Science Techniques, Summer I 2021) class. The only purpose of this repository is to demonstrate coursework relating to the R programming/data visualization language as well as Python for data scraping/etc.
 
-# Usage
-N/A
+Teachers:
+- Professor Babak Fotouhi 
+
+# Lab Grades
+
+|Lab|Grade|Notes|
+|:-|:-|:-|
+
+# Project Grades
+
+|Lab|Grade|Notes|
+|:-|:-|:-|
 
 # Notes
 N/A
 
 # Requirements & Dependencies
-N/A
+Languages
+- R (Optional)
+- Python
 
-# Previews
-![preview image](https://via.placeholder.com/350x240)
+Programs
+- R Studio
